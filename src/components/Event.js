@@ -15,4 +15,5 @@ const Event = ({ dispatch, event }) => {
     </tr>
   )
 }
+
 export default Event
